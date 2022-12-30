@@ -1,0 +1,9 @@
+
+tr,td {
+    vertical-align: middle;
+    text-align: center;
+}
+#user_icon{
+    width:42px;
+    height:40px;
+}
